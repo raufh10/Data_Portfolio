@@ -24,6 +24,8 @@ My portfolio highlights a range of projects that demonstrate my expertise in dat
 
 for more details, please visit [Supermarket Sales Analysis with SQL](https://github.com/raufh10/supermarket_data_analysis_sql)
 
+You could find the sales performance dashboard at [Tableau Public](https://public.tableau.com/app/profile/rauf.hamidy/viz/SalesPerformanceDashboard_17003520540570/Dashboard).
+
 ### 2. [Amazon Gaming Mice Product Analysis](https://github.com/raufh10/Amazon_Gaming_Mice_Data_Analysis)
 
 ![Sales Dashboard Overview](./overview/Amazon_Analysis_Overview.png)
