@@ -26,6 +26,8 @@ for more details, please visit [Supermarket Sales Analysis with SQL](https://git
 
 ### 2. [Amazon Gaming Mice Product Analysis](https://github.com/raufh10/Amazon_Gaming_Mice_Data_Analysis)
 
+![Sales Dashboard Overview](./overview/Amazon_Analysis_Overview.png)
+
 - **Objective and Methodology**: Investigate the PC gaming mice market on Amazon using sophisticated web scraping techniques and detailed data analysis in Jupyter Notebook.
 - **Goals**: Provide insights on market trends, pricing patterns, and key product features for businesses and consumers interested in PC gaming mice.
 - **Features**: Utilize Python and Beautiful Soup for web scraping, process data for analysis, and generate visualizations with Matplotlib and Seaborn to illustrate findings.
@@ -35,6 +37,8 @@ for more details, please visit [Supermarket Sales Analysis with SQL](https://git
 for more details, please visit [Amazon Gaming Mice Product Analysis](https://github.com/raufh10/Amazon_Gaming_Mice_Data_Analysis)
 
 ### 3. [Upwork Job Postings Analysis](https://github.com/raufh10/Upwork_Job_Data_Analysis)
+
+![Sales Dashboard Overview](./overview/Upwork_Analysis_Overview.png)
 
 - **Objective and Methodology**: Analyze Upwork job postings to provide freelancers with insights using advanced web scraping and in-depth data analysis techniques.
 - **Goals**: Offer insights into the job market, identify in-demand skills, and analyze rate structures to aid data analysts in navigating Upwork.
