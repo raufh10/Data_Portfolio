@@ -14,6 +14,8 @@ My portfolio highlights a range of projects that demonstrate my expertise in dat
 
 ### 1. [Supermarket Sales Analysis with SQL](https://github.com/raufh10/supermarket_data_analysis_sql)
 
+![Sales Dashboard Overview](./overview/Sales_Dashboard_Overview.png)
+
 - **Objective and Methodology**: Investigate a supermarket database to uncover insights into sales trends, loss rates, and wholesale prices using advanced SQL queries and data analysis techniques.
 - **Goals**: Provide detailed answers to business questions, understand loss rates and their impact on profitability, analyze wholesale price strategies, and identify sales trends to inform business strategies.
 - **Features**: Utilize SQL for comprehensive data analysis, focusing on loss rates, wholesale prices, and sales trends. Employ data visualization tools to represent findings clearly and effectively.
