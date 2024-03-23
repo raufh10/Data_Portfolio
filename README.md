@@ -1,10 +1,5 @@
-# Data Analyst Portfolio
-
-![data_analyst_portfolio](data_analyst_portfolio.jpg)
-
-Welcome to my Data Analyst Portfolio! I am Rauf Hamidy, a data analyst with a passion for uncovering insights from complex datasets and translating them into actionable strategies.
-
-My portfolio highlights a range of projects that demonstrate my expertise in data cleaning, visualization, and analysis. Most of the projects are using personally collected data, and some are using publicly available datasets. I have used a variety of tools and programming languages, including Python, SQL, and Tableau, to conduct my analyses and create visualizations.
+Welcome to my Data Portfolio!
+My portfolio highlights a range of data projects, grouped together by the tools I have used.
 
 ## Table of Contents
 
