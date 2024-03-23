@@ -1,4 +1,4 @@
-Welcome to my Data Portfolio!
+Welcome to my data portfolio!
 My portfolio highlights a range of data projects, grouped together by the tools I have used.
 
 ## Table of Contents
