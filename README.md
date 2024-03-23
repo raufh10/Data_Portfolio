@@ -3,9 +3,10 @@ My portfolio highlights a range of data projects, grouped together by the tools 
 
 ## Table of Contents
 
-- [Supermarket Sales Analysis with SQL](#1-supermarket-sales-analysis-with-sql)
-- [Amazon Gaming Mice Product Analysis](#2-amazon-gaming-mice-product-analysis)
-- [Upwork Job Postings Analysis](#3-upwork-job-postings-analysis)
+- [Data Engineering](#)
+- [SQL](#)
+- [Python](#)
+- [Data Visualization](#)
 
 ### 1. [Supermarket Sales Analysis with SQL](https://github.com/raufh10/supermarket_data_analysis_sql)
 
