@@ -9,7 +9,7 @@
 
 ## Data Engineering
 
-| Project Link | Project Description | Tools |
+| Project Link | Description | Tools |
 |---|---|---|
 |   |   |   |
 
@@ -17,17 +17,24 @@
 
 ## SQL
 
-
+| Project Link | Type of Analysis | Description | Visualization Link |
+|---|---|---|---|
+|   |   |   |   |
 
 ***
 
 ## Python
 
-
+| Project Link | Type of Analysis | Description | Libraries | Visualization Link |
+|---|---|---|---|---|
+|   |   |   |   |   |
 
 ***
 
 ## Data Visualization
 
+| Visualization Library Link | Visualization Tools | Description | Visualization Preview
+|---|---|---|---|
+|   |   |   |   |
 
 ***
