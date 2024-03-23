@@ -1,4 +1,4 @@
-Welcome to my data portfolio!
+👋 Hi! Welcome to my data portfolio!
 
 ## Table of Contents
 
