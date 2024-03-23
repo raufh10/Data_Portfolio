@@ -5,7 +5,7 @@ Welcome to my data portfolio!
 - [Data Engineering](#)
 - [SQL](#)
 - [Python](#)
-- [Data Visualization](#)
+- [Data Visualization (Tableau & Looker Studio](#)
 
 ### 1. [Supermarket Sales Analysis with SQL](https://github.com/raufh10/supermarket_data_analysis_sql)
 
