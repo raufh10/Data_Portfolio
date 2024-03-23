@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [Data Engineering](#data_engineering)
-- [SQL](#)
-- [Python](#)
-- [Data Visualization (Tableau & Looker Studio)](#)
+- [Data Engineering](#data-engineering)
+- [SQL](#sql)
+- [Python](#python)
+- [Data Visualization (Tableau & Looker Studio)](#data-visualization)
 
 ## Data Engineering
 
@@ -21,7 +21,7 @@ for more details, please visit [Supermarket Sales Analysis with SQL](https://git
 
 You could find the sales performance dashboard at [Tableau Public](https://public.tableau.com/app/profile/rauf.hamidy/viz/SalesPerformanceDashboard_17003520540570/Dashboard).
 
-### 2. [Amazon Gaming Mice Product Analysis](https://github.com/raufh10/Amazon_Gaming_Mice_Data_Analysis)
+## SQL
 
 ![Sales Dashboard Overview](./overview/Amazon_Analysis_Overview.png)
 
@@ -33,7 +33,7 @@ You could find the sales performance dashboard at [Tableau Public](https://publi
 
 for more details, please visit [Amazon Gaming Mice Product Analysis](https://github.com/raufh10/Amazon_Gaming_Mice_Data_Analysis)
 
-### 3. [Upwork Job Postings Analysis](https://github.com/raufh10/Upwork_Job_Data_Analysis)
+## Python
 
 ![Sales Dashboard Overview](./overview/Upwork_Analysis_Overview.png)
 
@@ -44,3 +44,5 @@ for more details, please visit [Amazon Gaming Mice Product Analysis](https://git
 - **Actionable Insights**: Focus skill development on tools like Excel and Python, consider applying for shorter projects to maximize earnings, and adjust pricing strategies based on experience level for better job market positioning.
 
 for more details, please visit [Upwork Job Postings Analysis](https://github.com/raufh10/Upwork_Job_Data_Analysis)
+
+## Data Visualization
