@@ -4,7 +4,7 @@
 
 - [SQL](#sql)
 - [Python](#python)
-- [Data Visualization (Tableau & Looker Studio)](#data-visualization)
+- [Data Visualization (Tableau)](#data-visualization)
 
 ## SQL 📝
 
@@ -24,8 +24,10 @@
 
 ## Data Visualization 📈
 
-| Visualization Library Link | Visualization Tools | Description | Visualization Preview
-|---|---|---|---|
-| [LibraryLink](URL_to_the_library) | Tool Name | Brief description of the visualization. | ![Alt text](/img/sales_performance_dashboard_1.png) |
+| Visualization Library Link | Description | Visualization Preview
+|---|---|---|
+| [Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17003520540570/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Brief description of the visualization. | ![Sales Performance Dashboard v.1](/img/sales_performance_dashboard_1.png) |
+| [Brenda's French Soul Food Yelp Rating Dashboard](https://public.tableau.com/views/BrendasFrenchSoulFoodYelpRatingDashboard/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Brief description of the visualization. | ![Brenda's French Soul Food Yelp Rating Dashboard](/img/brenda's_french_soul_food_yelp_rating_dashboard.png) |
+| [Sales Performance Dashboard v2.0](https://public.tableau.com/views/SalesPerformanceDashboardv2_0/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Brief description of the visualization. | ![Sales Performance Dashboard v.2](/img/sales_performance_dashboard_2.png) |
 
 ***
