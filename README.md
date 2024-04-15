@@ -1,4 +1,4 @@
-👋 Hi! Welcome to my data portfolio! Here, you'll find a variety of projects related to data engineering, analysis, and visualization 📊
+👋 Hi! Welcome to my data portfolio! Here, you'll find a variety of projects related to data analysis and visualization 📊
 
 ## Table of Contents 📚
 
