@@ -26,6 +26,6 @@
 
 | Visualization Library Link | Visualization Tools | Description | Visualization Preview
 |---|---|---|---|
-|   |   |   |   |
+| [LibraryLink](URL_to_the_library) | Tool Name | Brief description of the visualization. | ![Alt text](/img/sales_performance_dashboard_1.png) |
 
 ***
