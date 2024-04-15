@@ -17,7 +17,7 @@
 ## Python 🐍
 
 | Project Link | Area of Analysis | Description |
-|---|---|---|---|
+|---|---|---|
 | [Amazon Bestseller PC Gaming Mice Analysis](https://github.com/raufh10/Amazon_Gaming_Mice_Data_Analysis) | Market Trends, Pricing Patterns, and Product Features Analysis |   |
 | [Upwork Job Post Data Analysis](https://github.com/raufh10/Upwork_Job_Data_Analysis) | Job Market, Rate, and In-Demand Skills Insights |   |
 
