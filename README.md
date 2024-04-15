@@ -26,8 +26,8 @@
 
 | Visualization Library Link | Description | Visualization Preview
 |---|---|---|
-| [Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17003520540570/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Brief description of the visualization. | ![Sales Performance Dashboard v.1](/img/sales_performance_dashboard_1.png) |
-| [Brenda's French Soul Food Yelp Rating Dashboard](https://public.tableau.com/views/BrendasFrenchSoulFoodYelpRatingDashboard/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Brief description of the visualization. | ![Brenda's French Soul Food Yelp Rating Dashboard](/img/brenda's_french_soul_food_yelp_rating_dashboard.png) |
-| [Sales Performance Dashboard v2.0](https://public.tableau.com/views/SalesPerformanceDashboardv2_0/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Brief description of the visualization. | ![Sales Performance Dashboard v.2](/img/sales_performance_dashboard_2.png) |
+| [Sales Performance Dashboard v2.0](https://public.tableau.com/views/SalesPerformanceDashboardv2_0/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | An updated version of my previous sales performance dashboard for a grocery store in China now includes total profit and profit margin, as well as profit and profit margin by category. | ![Sales Performance Dashboard v.2](/img/sales_performance_dashboard_2.png) |
+| [Brenda's French Soul Food Yelp Rating Dashboard](https://public.tableau.com/views/BrendasFrenchSoulFoodYelpRatingDashboard/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Rating dashboard for top-rated San Francisco restaurants on Yelp. | ![Brenda's French Soul Food Yelp Rating Dashboard](/img/brenda's_french_soul_food_yelp_rating_dashboard.png) |
+| [Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17003520540570/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Sales performance dashboard of a grocery store in China, using data from the 'supermarket-sales-data' dataset uploaded by yapwh1208 on kaggle.com. | ![Sales Performance Dashboard v.1](/img/sales_performance_dashboard_1.png) |
 
 ***
