@@ -18,8 +18,8 @@
 
 | Project Link | Area of Analysis | Description |
 |---|---|---|
-| [Amazon Bestseller PC Gaming Mice Analysis](https://github.com/raufh10/Amazon_Gaming_Mice_Data_Analysis) | Market Trends, Pricing Patterns, and Product Features Analysis |   |
-| [Upwork Job Post Data Analysis](https://github.com/raufh10/Upwork_Job_Data_Analysis) | Job Market, Rate, and In-Demand Skills Insights |   |
+| [Amazon Bestseller PC Gaming Mice Analysis](https://github.com/raufh10/Amazon_Gaming_Mice_Data_Analysis) | Market Trends, Pricing Patterns, and Product Features Analysis | This study analyzes the PC gaming mouse market on Amazon, focusing on product clusters, brand strategies, and customer ratings |
+| [Upwork Job Post Data Analysis](https://github.com/raufh10/Upwork_Job_Data_Analysis) | Job Market, Rate, and In-Demand Skills Insights | This project delves into job postings on Upwork, utilizing web scraping and data analysis to explore trends like the popularity of skills such as Microsoft Excel and Python, the correlation between project duration and hourly rates, and the impact of experience levels on compensation. |
 
 ***
 
