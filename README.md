@@ -18,7 +18,7 @@
 
 | Project Link | Analysis | Description | Visualization |
 |---|---|---|---|
-|[Supermarket SQL Analysis](https://github.com/raufh10/supermarket_data_analysis_sql)|EDA|Explored a Chinese supermarket database using SQL concepts to uncover sales trends and product insights.|![Sales Performance Dashboard v.2](/img/sales_performance_dashboard_2.png)|
+|[Supermarket SQL Analysis](https://github.com/raufh10/supermarket_data_analysis_sql)|EDA|Explored a Chinese supermarket database using SQL concepts to uncover sales trends and product insights.|[Dashboard](https://public.tableau.com/views/SalesPerformanceDashboardv2_0/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)|
 
 ***
 
