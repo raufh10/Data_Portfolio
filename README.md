@@ -11,7 +11,7 @@
 
 | Project Link | Tools | Description | Architecture Preview |
 |---|---|---|---|
-|[Upwork Data ETL Pipeline](https://github.com/raufh10/upwork_etl_pipeline)|Python, Airflow, MySQL|This Upwork Data ETL Pipeline processes freelance data analyst job posting data from Upwork using Python to extract, transform, and load data, with Apache Airflow orchestrating the workflow.| ![ETL Pipeline Architecture]([/img/sales_performance_dashboard_2.png](https://github.com/raufh10/upwork_etl_pipeline/blob/main/images/etl_pipeline_architecture.png)) |
+|[Upwork Data ETL Pipeline](https://github.com/raufh10/upwork_etl_pipeline)|Python, Airflow, MySQL|This Upwork Data ETL Pipeline processes freelance data analyst job posting data from Upwork using Python to extract, transform, and load data, with Apache Airflow orchestrating the workflow.| ![ETL Pipeline Architecture](https://github.com/raufh10/upwork_etl_pipeline/blob/main/images/etl_pipeline_architecture.png) |
 ***
 
 ## SQL 📝
