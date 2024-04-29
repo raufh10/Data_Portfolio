@@ -7,7 +7,7 @@
 - [Python](#python)
 - [Data Visualization (Tableau)](#data-visualization)
 
-  ## Data Pipeline 🔄
+## Data Pipeline 🔄
 
 | Project Link | Tools | Description | Architecture Preview |
 |---|---|---|---|
