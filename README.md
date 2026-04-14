@@ -11,16 +11,9 @@
 
 | Project Link | Tools | Description | Architecture Preview |
 |---|---|---|---|
-|[Upwork Data ETL Pipeline](https://github.com/raufh10/Data_Portfolio/tree/main/upwork_etl_pipeline)|Python, Airflow, MySQL|This Upwork Data ETL Pipeline processes freelance data analyst job posting data from Upwork using Python to extract, transform, and load data, with Apache Airflow orchestrating the workflow.| 
+|[Upwork Data ETL Pipeline](https://github.com/raufh10/Data_Portfolio/tree/main/upwork_etl_pipeline)|Python, Airflow, MySQL|This Upwork Data ETL Pipeline processes freelance data analyst job posting data from Upwork using Python to extract, transform, and load data, with Apache Airflow orchestrating the workflow.| ![ETL Pipeline Architecture](https://github.com/raufh10/Data_Portfolio/blob/main/upwork_etl_pipeline/images/etl_pipeline_architecture.png) |
+|[Amazon Data ETL Pipeline](https://github.com/raufh10/Data_Portfolio/tree/main/amazon_etl_pipeline)|Python, Airflow, MongoDB|Amazon Data ETL Pipeline processes products data from Upwork using Python to extract, transform, and load data to NoSQL database, with Apache Airflow orchestrating the workflow.| ![ETL Pipeline Architecture](https://github.com/raufh10/Data_Portfolio/blob/main/amazon_etl_pipeline/images/etl_pipeline_architecture.png) |
 
-![ETL Pipeline Architecture](https://github.com/raufh10/Data_Portfolio/blob/main/upwork_etl_pipeline/images/etl_pipeline_architecture.png)
-
- |
-|[Amazon Data ETL Pipeline](https://github.com/raufh10/Data_Portfolio/tree/main/amazon_etl_pipeline)|Python, Airflow, MongoDB|Amazon Data ETL Pipeline processes products data from Upwork using Python to extract, transform, and load data to NoSQL database, with Apache Airflow orchestrating the workflow.| 
-
-![ETL Pipeline Architecture](https://github.com/raufh10/Data_Portfolio/blob/main/amazon_etl_pipeline/images/etl_pipeline_architecture.png)
-
- |
 ***
 
 ## SQL 📝
@@ -44,20 +37,9 @@
 
 | Visualization Library Link | Description | Visualization Preview
 |---|---|---|
-| [Sales Performance Dashboard v2.0](https://public.tableau.com/views/SalesPerformanceDashboardv2_0/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | An updated version of my previous sales performance dashboard for a grocery store in China now includes total profit and profit margin, as well as profit and profit margin by category. | 
-
-![Sales Performance Dashboard v.2](/img/sales_performance_dashboard_2.png)
-
- |
-| [Brenda's French Soul Food Yelp Rating Dashboard](https://public.tableau.com/views/BrendasFrenchSoulFoodYelpRatingDashboard/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Rating dashboard for top-rated San Francisco restaurants on Yelp. | 
-
-![Brenda's French Soul Food Yelp Rating Dashboard](/img/brenda's_french_soul_food_yelp_rating_dashboard.png)
-
- |
-| [Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17003520540570/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Sales performance dashboard of a grocery store in China, using data from the 'supermarket-sales-data' dataset uploaded by yapwh1208 on kaggle.com. | 
-
-![Sales Performance Dashboard v.1](/img/sales_performance_dashboard_1.png)
-
- |
+| [Sales Performance Dashboard v2.0](https://public.tableau.com/views/SalesPerformanceDashboardv2_0/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | An updated version of my previous sales performance dashboard for a grocery store in China now includes total profit and profit margin, as well as profit and profit margin by category. | ![Sales Performance Dashboard v.2](/img/sales_performance_dashboard_2.png) |
+| [Brenda's French Soul Food Yelp Rating Dashboard](https://public.tableau.com/views/BrendasFrenchSoulFoodYelpRatingDashboard/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Rating dashboard for top-rated San Francisco restaurants on Yelp. | ![Brenda's French Soul Food Yelp Rating Dashboard](/img/brenda's_french_soul_food_yelp_rating_dashboard.png) |
+| [Sales Performance Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17003520540570/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) | Sales performance dashboard of a grocery store in China, using data from the 'supermarket-sales-data' dataset uploaded by yapwh1208 on kaggle.com. | ![Sales Performance Dashboard v.1](/img/sales_performance_dashboard_1.png) |
 
 ***
+
