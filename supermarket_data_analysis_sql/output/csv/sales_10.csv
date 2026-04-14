@@ -1,0 +1,37 @@
+Month,ProductsCategory,TotalSales,SalesGrowthStatus
+2023-01,"Aquatic Tuberous Vegetables",¥16773.81,"No Prior Data"
+2023-02,"Aquatic Tuberous Vegetables",¥7279.08,Down
+2023-03,"Aquatic Tuberous Vegetables",¥6694.63,Down
+2023-04,"Aquatic Tuberous Vegetables",¥5451.22,Down
+2023-05,"Aquatic Tuberous Vegetables",¥5297.71,Down
+2023-06,"Aquatic Tuberous Vegetables",¥7630.5,Up
+2023-01,Cabbage,¥15715.63,"No Prior Data"
+2023-02,Cabbage,¥9701.59,Down
+2023-03,Cabbage,¥8334.45,Down
+2023-04,Cabbage,¥7551.51,Down
+2023-05,Cabbage,¥8486.72,Up
+2023-06,Cabbage,¥7412.59,Down
+2023-01,Capsicum,¥39587.31,"No Prior Data"
+2023-02,Capsicum,¥23256.55,Down
+2023-03,Capsicum,¥26387.69,Up
+2023-04,Capsicum,¥20056.93,Down
+2023-05,Capsicum,¥19922.04,Down
+2023-06,Capsicum,¥15994.93,Down
+2023-01,"Edible Mushroom",¥34699.52,"No Prior Data"
+2023-02,"Edible Mushroom",¥18176.11,Down
+2023-03,"Edible Mushroom",¥17932.59,Down
+2023-04,"Edible Mushroom",¥14247.17,Down
+2023-05,"Edible Mushroom",¥11951.21,Down
+2023-06,"Edible Mushroom",¥8952.98,Down
+2023-01,Flower/Leaf Vegetables,¥41473.18,"No Prior Data"
+2023-02,Flower/Leaf Vegetables,¥29148.15,Down
+2023-03,Flower/Leaf Vegetables,¥27148.64,Down
+2023-04,Flower/Leaf Vegetables,¥22721.1,Down
+2023-05,Flower/Leaf Vegetables,¥26683.11,Up
+2023-06,Flower/Leaf Vegetables,¥24054.58,Down
+2023-01,Solanum,¥8482.38,"No Prior Data"
+2023-02,Solanum,¥4382.81,Down
+2023-03,Solanum,¥5059.71,Up
+2023-04,Solanum,¥4751.48,Down
+2023-05,Solanum,¥5652.61,Up
+2023-06,Solanum,¥6049.94,Up
